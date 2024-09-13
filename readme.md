@@ -39,7 +39,7 @@ Transfer-Encoding: chunked
 
 6. Repetați pașii 3-5, introducând date corecte pentru autentificare (username: admin, password: password).
 
-* Ce metodă HTTP a fost utilizată pentru a trimite cererea?
+* Ce metodă HTTP a fost utilizată pentru a trimite cererea? POST
 
 * Ce anteturi au fost trimise în cerere?
 ```  
